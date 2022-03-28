@@ -6,3 +6,17 @@
 h3 {
     text-align: center;
 }
+
+.add {
+    background-color: green;
+    color: white;
+}
+
+.remove {
+    background-color: red;
+    color: white;
+}
+
+.hideBtn {
+    display: none;
+}
